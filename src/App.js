@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>My react</h1>
+      <h1>My react project</h1>
     </div>
   );
 }
